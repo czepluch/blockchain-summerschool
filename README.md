@@ -6,20 +6,20 @@ In order to not waste a lot of the limited time we have during the week, here is
 As previously mentioned it is highly recommended that all students run either Linux or OSX for the summer school. If you run Windows it doesn't mean that you cannot participate, but the time it takes for the lectures to support you might be longer.
 
 
-Download the latest Ethereum Wallet application [HERE](https://github.com/ethereum/mist/releases). At the time of writing latest version is 8.1. 
+- Download the latest Ethereum Wallet application [HERE](https://github.com/ethereum/mist/releases). At the time of writing latest version is 8.1. 
 
 
-Once the wallet application is installed, you should start syncing the Ethereum test-net blockchain. When you run the application for the first time you will be prompted about which network to run. Please choose the test-net since that is the one we will be using during the summer school. Be advised that syncing might take several hours.
+- Once the wallet application is installed, you should start syncing the Ethereum test-net blockchain. When you run the application for the first time you will be prompted about which network to run. Please choose the test-net since that is the one we will be using during the summer school. Be advised that syncing might take several hours.
 Once you're synced you can ask in the [gitter channel](https://gitter.im/blockchain-summer-school/support) for some test ether or use the [faucet](http://faucet.ma.cx:3000/).
 
 
-Next up we need to install the Solidity compiler called `solc`. This is done by following [these guidelines](http://solidity.readthedocs.io/en/latest/installing-solidity.html#building). When you have the binary `solc` file move it to `/usr/local/bin`.
+- Next up we need to install the Solidity compiler called `solc`. This is done by following [these guidelines](http://solidity.readthedocs.io/en/latest/installing-solidity.html#building). When you have the binary `solc` file move it to `/usr/local/bin`.
 
 
-[Install truffle](http://truffle.readthedocs.io/en/latest/getting_started/installation/) following these instructions.
+- [Install truffle](http://truffle.readthedocs.io/en/latest/getting_started/installation/) following these instructions.
 
 
-[Install gethi](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum). This is not necessary, but nice to have. You don't need to sync here, since you already did this when installing the wallet.
+- [Install gethi](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum). This is not necessary, but nice to have. You don't need to sync here, since you already did this when installing the wallet.
 
 
-[Install Hydrachain](https://github.com/HydraChain/hydrachain#setup--invocation). 
+- [Install Hydrachain](https://github.com/HydraChain/hydrachain#setup--invocation). 
