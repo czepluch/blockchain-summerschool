@@ -1,0 +1,2 @@
+# blockchain-summerschool
+Summerschool stuff
