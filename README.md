@@ -1,6 +1,6 @@
 # List of prerequisites for the summer school
 
-In order to not waste a lot of the limited time we have during the week, here is a list of requirements that we would like for you as a participant to have installed prior to the summer school.
+In order to not waste a lot of the limited time we have during the week, here is a list of requirements that we would like for you, as a participant, to have installed prior to the summer school.
 
 For general help and support with the following steps prior to the start of the summer school, please join this [gitter channel](https://gitter.im/blockchain-summer-school/support) and ask your questions.
 
@@ -25,3 +25,6 @@ Once you're synced you can ask in the [gitter channel](https://gitter.im/blockch
 
 
 - Please do also have a text editor of your choice installed, preferably with Solidity syntax highlighting. You can also choose to use [Browser Solidity](https://ethereum.github.io/browser-solidity).
+
+
+Further more as the Solidity and smart contract lectures are planned to be interactive, it is expected that everyone brings their own laptop to the lectures.
