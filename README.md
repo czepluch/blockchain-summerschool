@@ -12,7 +12,7 @@ Please note that support for students that have not followed the instructions be
 
 
 - Once the wallet application is installed, you should start syncing the Ethereum test-net blockchain. When you run the application for the first time you will be prompted about which network to run. Please choose the test-net since that is the one we will be using during the summer school. Be advised that syncing might take several hours.
-Once you're synced you can ask in the [gitter channel](https://gitter.im/blockchain-summer-school/support) for some test ether or use this [faucet](http://faucet.ma.cx:3000/).
+Once you're synced you can ask in the [gitter channel](https://gitter.im/blockchain-summer-school/support) for some test ether or use this [faucet](http://faucet.ma.cx:3000/) or alternatively [this](https://zerogox.com/ethereum/wei_faucet).
 
 
 - Next up we need to install the Solidity compiler called `solc`. This is done by following [these guidelines](http://solidity.readthedocs.io/en/latest/installing-solidity.html#building-from-source). If you build the binary file, move the `solc` file in to `/usr/local/bin`.
